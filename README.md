@@ -52,6 +52,12 @@ ___
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://or-formation.com/uploads/img/produits/52.png" width="128"/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" width="128"/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" width="128"/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
 	<br>
 	<br><br>

@@ -67,7 +67,7 @@ ___
 <p align="right">
 	<font size="7">
 		<b>
-			<a href="https://github.com/NessMC/NessMC">Forked from Ness
+			<a href="https://github.com/NessMC/NessMC" target="_blank">Forked from Ness
 		</b>	
 	</font>
 </p>

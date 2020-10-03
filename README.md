@@ -50,6 +50,8 @@ ___
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://www.solutions-numeriques.com/wp-content/uploads/2016/03/java.png" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="128"/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
 	<br>
 	<br><br>

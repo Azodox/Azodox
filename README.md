@@ -1,12 +1,12 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nessmc&count_private=true&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=azodox&count_private=true&show_icons=true&hide_border=true" />
 <font size="10">
 <b>
 Hi there 👋
 </b>
 </font>
 <br>
-I'm <a href="https://nessmc.fr">Ness</a>, <b>web developer</b> from France. I love programming and designing websites. Since 5 years, I'm constantly learning different programming languages like <b>Javascript</b>, <b>Typescript</b>, <b>PHP</b>...
+I'm Azodox_, <b>mainly Java Developer</b> from France. I love programming. Since 3 years, I'm constantly programming in Java. But, I have been starting to learn some other languages like <b>JavaScript</b>, <b>Ruby</b>, <b>C++</b>... since 2019.</br>
 
 ___
 
@@ -14,12 +14,11 @@ ___
 	<br>
 	<br>
 	<br>
-	<img src="http://img.shields.io/badge/Discord-%40Ness%239999-7289DA?style=for-the-badge" />
+	<img src="http://img.shields.io/badge/Discord-%40Luke/Azodox_%232416-7289DA?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/Twiter-%40Ness40661033-1DA1F2?style=for-the-badge" />
+	<img src="http://img.shields.io/badge/Twiter-%40Azodox__-1DA1F2?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/Instagram-%40nessmc.contact-E1306C?style=for-the-badge" />
-	<br>
+	<!--<br>
 	<br>
 	<br>
 	<font size="10">
@@ -33,7 +32,7 @@ ___
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=popscript" />
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Objective-HTML&repo=objective-html" />
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=css-framework" />
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=javaskript" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=javaskript" />-->
 </p>
 
 ___
@@ -49,16 +48,10 @@ ___
 <p align="center">
 	<img src="https://www.split.io/wp-content/uploads/2020/03/javascript-logo.png" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="128"/>
+	<img src="https://www.solutions-numeriques.com/wp-content/uploads/2016/03/java.png" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://equestsolutions.net/wp-content/uploads/2014/08/php-logo.jpg" width="128" />
 	<br>
 	<br>
-	<img src="https://fr.nuxtjs.org/logos/nuxt-emoji.png" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://vuejs.org/images/logo.png" width="128" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://gridsome.org/logos/only-logo.svg" width="128" />
 	<br><br>
 	<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="128" />
 </p>
@@ -66,5 +59,5 @@ ___
 ___
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nessmc&hide_border=true" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azodox&hide_border=true" />
 </p>

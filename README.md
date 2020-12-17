@@ -64,12 +64,10 @@ ___
 	<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="128" />
 </p>
 
-___
-
+<!-- ___
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azodox&hide_border=true" />
-</p>
-
+</p>-->
 ___
 
 <p align="right">

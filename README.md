@@ -14,8 +14,6 @@ I'm Azodox_, <b>mainly Java Developer</b> from France. I love programming. Since
 	<br>
 	<img src="http://img.shields.io/badge/Discord-%40Luke/Azodox__%236614-7289DA?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/Twitter-%40Azodox__-1DA1F2?style=for-the-badge" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<!--<br>
 	<br>
 	<br>
@@ -32,5 +30,3 @@ I'm Azodox_, <b>mainly Java Developer</b> from France. I love programming. Since
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=css-framework" />
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=javaskript" />-->
 </p>
-
-___

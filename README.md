@@ -8,8 +8,6 @@ Hi there 👋
 <br>
 I'm Azodox_, <b>mainly Java Developer</b> from France. I love programming. Since 3 years, I'm constantly programming in Java. But, I have been starting to learn some other languages like <b>JavaScript</b>, <b>Ruby</b>, <b>C++</b>... since 2019.</br>
 
-___
-
 <p align="center">
 	<br>
 	<br>
@@ -36,11 +34,3 @@ ___
 </p>
 
 ___
-
-<p align="right">
-	<font size="7">
-		<b>
-			<a href="https://github.com/NessMC/NessMC">Forked from Ness
-		</b>	
-	</font>
-</p>

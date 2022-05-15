@@ -14,19 +14,6 @@ I'm Azodox_, <b>mainly Java Developer</b> from France. I love programming. Since
 	<br>
 	<img src="http://img.shields.io/badge/Discord-%40Luke/Azodox__%236614-7289DA?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<!--<br>
-	<br>
-	<br>
-	<font size="10">
-		<b>
-			My projects
-		</b>
-	</font>
-	<br>
-	<br>
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=popscript" />
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Objective-HTML&repo=objective-html" />
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=css-framework" />
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=javaskript" />-->
 </p>
+<hr>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">

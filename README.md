@@ -16,4 +16,4 @@ I'm Azodox_, <b>mainly Java Developer</b> from France. I love programming. Since
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">

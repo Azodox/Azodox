@@ -1588,7 +1588,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PaperMC/Velocity</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The modern, next-generation Minecraft server proxy.</div>
@@ -1641,7 +1641,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>n0shake/Public-APIs</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📚 A public list of APIs from round the web.</div>
@@ -1682,7 +1682,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/metrics</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</div>
@@ -2458,7 +2458,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2022, 06:33:07 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 16 May 2022, 07:28:05 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

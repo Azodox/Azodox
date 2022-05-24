@@ -1599,7 +1599,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PaperMC/Velocity</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The modern, next-generation Minecraft server proxy.</div>
@@ -2529,7 +2529,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2022, 00:22:03 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 25 May 2022, 01:22:24 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

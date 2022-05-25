@@ -1713,7 +1713,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        6.78k
+                                        6.79k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1810,8 +1810,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">space-attempt</span></div>
                                     <div class="commit">
-                                        <div class="sha">#21706ba</div>
-                                        <div class="message">Updated images</div>
+                                        <div class="sha">#167dc8e</div>
+                                        <div class="message">Removed wget image</div>
                                     </div>
                                 </div>
                             </section>
@@ -1830,8 +1830,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">space-attempt</span></div>
                                     <div class="commit">
-                                        <div class="sha">#143b006</div>
-                                        <div class="message">Added git container</div>
+                                        <div class="sha">#cb359a2</div>
+                                        <div class="message">Changed wget image</div>
                                     </div>
                                 </div>
                             </section>
@@ -1850,8 +1850,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">space-attempt</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c8dd777</div>
-                                        <div class="message">Updated java version</div>
+                                        <div class="sha">#7e4c13b</div>
+                                        <div class="message">Updated wget image</div>
                                     </div>
                                 </div>
                             </section>
@@ -1870,8 +1870,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">space-attempt</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cecb946</div>
-                                        <div class="message">Updated image for java version</div>
+                                        <div class="sha">#2898c93</div>
+                                        <div class="message">Added git</div>
                                     </div>
                                 </div>
                             </section>
@@ -1890,8 +1890,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">space-attempt</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5913184</div>
-                                        <div class="message">Set java version</div>
+                                        <div class="sha">#675f4c1</div>
+                                        <div class="message">Updated git container</div>
                                     </div>
                                 </div>
                             </section>
@@ -2528,7 +2528,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2022, 08:27:38 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 25 May 2022, 09:20:55 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

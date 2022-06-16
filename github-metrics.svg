@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2668" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2452" class="">
     <defs>
         <style/>
     </defs>
@@ -1696,6 +1696,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#787 Get component content</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">KyoriPowered/adventure</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1772,76 +1789,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">Azodox/xmas-lobby</span></div>
                                     <div>12 files changed <span class="code">++199 --30</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">Azodox/xmas-lobby</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9d85d0a</div>
-                                        <div class="message">Merge pull request #11 from Azodox/azo
-
-Update with AccountSystem v0.5.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f443abe</div>
-                                        <div class="message">Update TeamTagManager init call way and register out going channel BungeeCord.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bac83f5</div>
-                                        <div class="message">Put main field as final and modified count method call to countDocuments.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9bd5d9d</div>
-                                        <div class="message">Update methods with UpdateOperators from Morphia (due to AccountSystem v0.5.0)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18fe5d8</div>
-                                        <div class="message">Create unableToConnectTo method.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da88540</div>
-                                        <div class="message">Prevents player from taking a book from a lectern and interact with item frames.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0082613</div>
-                                        <div class="message">Use switch and if subchannel equals to UnableToConnectTo teleport the player.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc07c1b</div>
-                                        <div class="message">Add auto teleportation when a player is near teleportToSurvivalLocation (defined in config).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d88f31</div>
-                                        <div class="message">Wrote javadoc.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#772fb5a</div>
-                                        <div class="message">Use UpdateOperators from Morphia</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c90902</div>
-                                        <div class="message">Set AccountSystem as a soft dependency.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b026b4a</div>
-                                        <div class="message">Added fields (teleportToSurvivalLocation and serversName.survival)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ca2202</div>
-                                        <div class="message">Changed shadow dependencies by compileOnly dependencies due to classpath errors.</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2425,7 +2372,7 @@ Update with AccountSystem v0.5.0</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jun 2022, 18:31:07 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 16 Jun 2022, 19:24:28 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2611" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2528" class="">
     <defs>
         <style/>
     </defs>
@@ -39,11 +39,11 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            716 Commits
+                            729 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    80.6 MB used
+                                    81.2 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.29m added, 3k removed
+                                    1.29m added, 2.91k removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="422.665340644058" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="422.665340644058" y="0" width="21.846836370768944" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="444.512177014827" y="0" width="6.424153708457516" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="450.93633072328447" y="0" width="4.671425863630321" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.6077565869148" y="0" width="2.4278010854618213" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.0355576723766" y="0" width="1.5208966629805363" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="459.55645433535716" y="0" width="0.2587846349623605" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.8152389703195" y="0" width="0.18476102968047906" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="422.6198330020059" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="422.6198330020059" y="0" width="21.894011559782637" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="444.5138445617886" y="0" width="6.423462031001762" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="450.93730659279026" y="0" width="4.670922899332963" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.60822949212326" y="0" width="2.4275396883418154" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.0357691804651" y="0" width="1.5207329106822483" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="459.55650209114737" y="0" width="0.2587567720708385" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.8152588632182" y="0" width="0.18474113678178275" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -346,7 +346,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>91.88%</div>
+                                <div>91.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -392,7 +392,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>4.75%</div>
+                                <div>4.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -470,7 +470,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.97
+                            Average per day at ~2.96
                         </div>
                     </section>
                 </div>
@@ -1390,9 +1390,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.85)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.15 0,1.15 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.15 1.7,2.15 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.15 0,1.15 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.15 1.7,2.15 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1459,6 +1459,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
@@ -1686,6 +1691,110 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Azodox/xmas-lobby</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">azo</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f946296</div>
+                                        <div class="message">Update to Minecraft 1.19</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">Azodox/xmas-moderation</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#71558e2</div>
+                                        <div class="message">Update gitignore.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3cd3c38</div>
+                                        <div class="message">Added permission on sensitive words.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88a7ada</div>
+                                        <div class="message">Create ChatLogger.java</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5aa127</div>
+                                        <div class="message">Create ChatLoggable.java</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#810fa4e</div>
+                                        <div class="message">Implements ChatLoggable.java</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d8be9e</div>
+                                        <div class="message">Register ACF commands, auto moderation mode and set chatLogger field.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d48b70</div>
+                                        <div class="message">Upgrade to version 0.1.1 (Minecraft 1.19)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">Azodox/xmas-proxy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ee17c26</div>
+                                        <div class="message">Update Minecraft version.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#865e2bc</div>
+                                        <div class="message">Added listener for pre connections to check if player has been able to connect to survival server.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#894739a</div>
+                                        <div class="message">Removed unused imports.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05b5f74</div>
+                                        <div class="message">Using replace tokens and register listener.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#592a962</div>
+                                        <div class="message">Added authors.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf32618</div>
+                                        <div class="message">Using Kyori's blossom.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -1708,133 +1817,6 @@
                                         Created new
                       repository
                                         <span class="repo">Azodox/xmas-moderation-mod</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">Azodox/xmas-moderation</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1ac6f60</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main'
-
-# Conflicts:
-#	src/main/java/fr/olten/moderation/listener/PlayerChatListener.java</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1bb3ad</div>
-                                        <div class="message">Create this class that handles vanish command that toggles vanish mode of a player.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09a1b83</div>
-                                        <div class="message">Use ACF framework to build this staffchat command.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e0d29f</div>
-                                        <div class="message">Create mod command that toggles moderation mode of a player.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b187d00</div>
-                                        <div class="message">Put STAFF_CHAT_TOGGLE list as public static final, saveDefaultConfig, getPrefix and put it in a field, register join listener, register vanish team if not yet, auto vanish connected players, register vanish and mod commands and call clear methods of ModesStatus and ActionBar classes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c017bcd</div>
-                                        <div class="message">Handles moderation part of a player such as moderation mode and vanish.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c9a605</div>
-                                        <div class="message">Create ActionBar that provides a way to send an action bar constantly (actually need to remake it).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b29a0d</div>
-                                        <div class="message">Create ModesStatus.java that handles action bar of staffchat + vanish mode + moderation mode status.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#339f3dc</div>
-                                        <div class="message">Create listener of player join event and auto enable mod and vanish mode for joining player.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9984478</div>
-                                        <div class="message">Updated sensitive check and replacement with Kyori's components.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b2246e</div>
-                                        <div class="message">Put @version@ token.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf7d61e</div>
-                                        <div class="message">Create config.yml with prefix field.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c824c82</div>
-                                        <div class="message">Added a few dependencies such as Paper.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">Azodox/xmas-lobby</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">azo</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a77c305</div>
-                                        <div class="message">Run SpawnPortalParticle asynchronously.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b58d40</div>
-                                        <div class="message">Avoid falling from being killed.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0527c5c</div>
-                                        <div class="message">Avoid food level from changing.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b76badf</div>
-                                        <div class="message">Added protection for armor stands.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1826e30</div>
-                                        <div class="message">Set tasks running as asynchronously.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Azodox/account-system</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v0.5.1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#80ab669</div>
-                                        <div class="message">Changed version to a snapshot one.</div>
                                     </div>
                                 </div>
                             </section>
@@ -2419,7 +2401,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2022, 01:21:37 (timezone Europe/Paris) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 6 Jul 2022, 04:14:06 (timezone Europe/Paris) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

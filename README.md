@@ -6,7 +6,7 @@ Hi there 👋
 </b>
 </font>
 <br>
-I'm Azodox_, <b>mainly Java Developer</b> from France. I love programming. Since 3 years, I'm constantly programming in Java. But, I have been starting to learn some other languages like <b>JavaScript</b>, <b>Python</b>, ... since 2019.</br>
+I'm Azodox_, <b>mainly Java Developer</b> from France. I love programming. Since 2018, I'm constantly programming in Java. But, I have been starting to learn some other languages like <b>JavaScript</b>, <b>Python</b>, ... since 2019.</br>
 
 <p align="center">
 	<br>

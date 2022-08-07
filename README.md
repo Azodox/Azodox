@@ -15,4 +15,6 @@ I'm Azodox_, <b>mainly Java Developer</b> from France. I love programming. Since
 	<img src="http://img.shields.io/badge/Discord-%40Luke/Azodox__%236614-7289DA?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<div align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="400">
+</div>

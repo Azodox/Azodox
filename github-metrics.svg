@@ -1635,7 +1635,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jneat/minibus</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple event bus for java application instance (alternative to guava eventbus).</div>
@@ -2028,7 +2028,7 @@ Matt</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.59m out of 95m users</span>
+                                    <span class="gh">ranked 5.60m out of 95m users</span>
                                 </div>
                                 <div class="text">Published 8 public repositories</div>
                             </div>
@@ -2454,7 +2454,7 @@ Matt</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2022, 10:25:55 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 11 Aug 2022, 11:21:10 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

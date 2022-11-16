@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2665" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2715" class="">
     <defs>
         <style/>
     </defs>
@@ -39,10 +39,10 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1084 Commits
+                            1093 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.71m added, 11.8k removed
+                                    1.38m added, 12.3k removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="421.2634549575964" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="421.2634549575964" y="0" width="23.084978971930965" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="444.34843392952735" y="0" width="6.403033620448446" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="450.7514675499758" y="0" width="4.698018450591956" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.4494860005678" y="0" width="2.4367654636198766" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.88625146418764" y="0" width="1.5158965535758437" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="459.40214801776347" y="0" width="0.3057458724745778" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.7078938902381" y="0" width="0.2921061097619106" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="421.2546076661253" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="421.2546076661253" y="0" width="23.084494145784372" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="444.3391018119097" y="0" width="6.402899145207187" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="450.7420009571169" y="0" width="4.703310570986357" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.4453115281033" y="0" width="2.43765571361807" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.8829672417213" y="0" width="1.515864717017292" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="459.3988319587386" y="0" width="0.30906806625400807" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.70790002499257" y="0" width="0.2920999750073689" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1718,6 +1718,58 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">Azodox/nsi-cv</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#52c4073</div>
+                                        <div class="message">Updated code to fit with language system</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efbd6e9</div>
+                                        <div class="message">Created lang files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f70b34</div>
+                                        <div class="message">Switched from var to const as well</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb412c9</div>
+                                        <div class="message">Switched from var to const</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cfd9936</div>
+                                        <div class="message">Updated switch language method</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7bba50</div>
+                                        <div class="message">Created methods to set the language</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91c29e8</div>
+                                        <div class="message">Set waves' bottom percentage to 0.7%</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#146b23e</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f93044</div>
+                                        <div class="message">Added media query for waves bottom gap</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Azodox/nsi-cv</span>
                                     </div>
@@ -1827,46 +1879,6 @@
                                     <div class="commit">
                                         <div class="sha">#3bb8135</div>
                                         <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">Azodox/nsi-exercices</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7939f58</div>
-                                        <div class="message">Added style for icons' class and edited waves bottom percentage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fa09a7</div>
-                                        <div class="message">Added theme first support (not finished yet), added particle behind title in home. Fixed expand (upwards) on about-me page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41cbd3f</div>
-                                        <div class="message">Created script to switch theme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eafe932</div>
-                                        <div class="message">Created script to handle theme when page is loaded</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9baa3c</div>
-                                        <div class="message">Only remove hidden when show.js is triggered</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a81c6f</div>
-                                        <div class="message">Import particlejs</div>
                                     </div>
                                 </div>
                             </section>
@@ -2451,7 +2463,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2022, 23:19:53 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 17 Nov 2022, 00:20:58 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
